@@ -13,3 +13,5 @@ Severity - submitter-assigned severity of the ticket
 Priority - IT-assigned priority of the ticket
 daysOpen - number of days the ticket was open
 Satisfaction - satisfaction with the resolution of the ticket (reported by the submitter)
+
+Tableau Public - https://public.tableau.com/profile/asha.bhat#!/vizhome/HelpDeskTickets-Dashboard/HelpDeskTicketAnalysis
